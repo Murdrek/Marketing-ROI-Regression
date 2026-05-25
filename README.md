@@ -22,9 +22,19 @@ Como parte de un equipo de analítica encargado de proveer insights estratégico
 
 ---
 
+---
+
 ### Project Structure / Estructura del Proyecto
-* **`notebooks/`**: Contains the full Jupyter Notebook (`Activity_Evaluate simple linear regression.ipynb`) with exploratory data plots and regression diagnostics.
-* **`code/`**: Contains the standalone production-ready Python script (`Activity_Evaluate simple linear regression.py`).
+
+#### English
+* **`notebooks/`**: Contains the full Jupyter Notebook (`Activity_Evaluate simple linear regression.ipynb`) featuring end-to-end data processing, exploratory visualizations, and regression diagnostic plots.
+* **`code/`**: Contains the standalone production-ready Python script (`Activity_Evaluate simple linear regression.py`) for clean code tracking.
+* **`docs/`**: Dedicated directory for high-level documentation, containing the Executive and Technical Reports tailored for stakeholder alignment meetings.
+
+#### Español
+* **`notebooks/`**: Contiene el Jupyter Notebook completo (`Activity_Evaluate simple linear regression.ipynb`) con el procesamiento de datos de principio a fin, visualizaciones exploratorias y gráficos de diagnóstico de la regresión.
+* **`code/`**: Contiene el script independiente de Python listo para producción (`Activity_Evaluate simple linear regression.py`) para un seguimiento limpio del código.
+* **`docs/`**: Directorio dedicado a la documentación de alto nivel, el cual contendrá los Informes Ejecutivos y Técnicos diseñados para reuniones de alineación con los *stakeholders*.
 
 ---
 
