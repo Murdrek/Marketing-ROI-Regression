@@ -1,5 +1,19 @@
-English
-This repository documents an evolutionary data analytics pipeline exploring Ordinary Least Squares (OLS) linear regression to optimize marketing budgets and predict corporate revenue. The project scales systematically through two phases: Phase 1 establishes a baseline using simple linear regression (TV spend). Phase 2 expands into multiple linear regression, documenting a real-world troubleshooting workflow—navigating a severe multicollinearity bottleneck (Radio vs. Social Media) and implementing a successful tactical redesign using categorical encoding (C(TV) + Radio).
+# Notebooks Analysis Pipeline
 
-Español
-Este repositorio documenta un pipeline evolutivo de análisis de datos que explora la regresión lineal por Mínimos Cuadrados Ordinarios (OLS) para optimizar presupuestos de marketing y predecir ingresos corporativos. El proyecto escala sistemáticamente a través de dos fases: la Fase 1 establece una línea base mediante regresión lineal simple (inversión en TV). La Fase 2 se expande hacia la regresión lineal múltiple, registrando un flujo real de resolución de problemas—navegando un cuello de botella por severa multicolinealidad (Radio vs. Redes Sociales) e implementando un rediseño táctico exitoso mediante codificación categórica (C(TV) + Radio).
+---
+
+## Project Overview / Descripción del Proyecto
+
+### English
+This repository documents an evolutionary data analytics pipeline exploring Ordinary Least Squares (OLS) linear regression to optimize marketing budgets and predict corporate revenue. The project scales systematically through two phases: 
+
+* **Phase 1** establishes a baseline using simple linear regression (TV spend). 
+* **Phase 2** expands into multiple linear regression, documenting a real-world troubleshooting workflow—navigating a severe multicollinearity bottleneck (Radio vs. Social Media) and implementing a successful tactical redesign using categorical encoding (`C(TV)` + `Radio`).
+
+---
+
+### Español
+Este repositorio documenta un pipeline evolutivo de análisis de datos que explora la regresión lineal por Mínimos Cuadrados Ordinarios (OLS) para optimizar presupuestos de marketing y predecir ingresos corporativos. El proyecto escala sistemáticamente a través de dos fases:
+
+* **La Fase 1** establece una línea base mediante regresión lineal simple (inversión en TV). 
+* **La Fase 2** se expande hacia la regresión lineal múltiple, registrando un flujo real de resolución de problemas—navegando un cuello de botella por severa multicolinealidad (Radio vs. Redes Sociales) e implementando un rediseño táctico exitoso mediante codificación categórica (`C(TV)` + `Radio`).
