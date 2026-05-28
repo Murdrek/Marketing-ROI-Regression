@@ -1,1 +1,5 @@
+English:
+Production-ready Python script for Phase 2 multiple linear regression. Contains the complete refactored pipeline mapping both iterations: the collinear baseline (Radio/Social Media) and the final optimized architecture (C(TV) + Radio). All Markdown structures have been cleaned or converted into lightweight execution comments for direct terminal usage.
 
+Español:
+Script de Python listo para producción correspondiente a la Fase 2 de regresión lineal múltiple. Contiene el pipeline completo y refactorizado mapeando ambas iteraciones: la línea base colineal (Radio/Social Media) y la arquitectura optimizada final (C(TV) + Radio). Todas las estructuras de Markdown fueron limpiadas o convertidas en comentarios ligeros de ejecución para uso directo en terminal.
