@@ -26,19 +26,24 @@ Como parte de un equipo de analítica encargado de proveer insights estratégico
 ## Project Structure / Estructura del Proyecto
 
 ### English
+* **`data/`**: Source environment containing the raw structured data.
+  * [marketing_sales_data.csv](./data/marketing_sales_data.csv) — Baseline historical dataset featuring campaign expenditures (TV, Radio, Social Media) and revenue outcomes.
 * **`notebooks/`**: Interactive Jupyter Notebooks capturing the analytical evolution.
-  * `01_Evaluate_simple_linear_regression.ipynb`: Baseline single-channel model.
-  * `02_Perform_multiple_linear_regression.ipynb`: Advanced multi-channel optimization, VIF troubleshooting, and categorical variable modeling.
+  * [Activity_Evaluate simple linear regression.ipynb](./notebooks/Activity_Evaluate%20simple%20linear%20regression.ipynb) — Baseline single-channel model.
+  * [Activity_Perform multiple linear regression.ipynb](./notebooks/Activity_Perform%20multiple%20linear%20regression.ipynb) — Advanced multi-channel optimization, VIF troubleshooting, and categorical variable modeling.
 * **`code/`**: Standalone production-ready Python scripts for clean code tracking.
-* **`docs/`**: Executive and Technical Reports tailored for stakeholder alignment meetings.
+  * [Activity_Perform multiple linear regression.py](./code/Activity_Perform%20multiple%20linear%20regression.py) — Refactored production script.
+* **`docs/`**: Dedicated directory for high-level documentation and executive summaries.
 
 ### Español
+* **`data/`**: Entorno de origen que contiene los datos estructurados en bruto.
+  * [marketing_sales_data.csv](./data/marketing_sales_data.csv) — Conjunto de datos históricos que contiene los gastos de campaña (TV, Radio, Redes Sociales) y los resultados de ingresos.
 * **`notebooks/`**: Jupyter Notebooks interactivos que capturan la evolución analítica.
-  * `01_Evaluate_simple_linear_regression.ipynb`: Modelo inicial de canal único.
-  * `02_Perform_multiple_linear_regression.ipynb`: Optimización multicanal avanzada, resolución de problemas de VIF y modelado de variables categóricas.
+  * [Activity_Evaluate simple linear regression.ipynb](./notebooks/Activity_Evaluate%20simple%20linear%20regression.ipynb) — Modelo inicial de canal único.
+  * [Activity_Perform multiple linear regression.ipynb](./notebooks/Activity_Perform%20multiple%20linear%20regression.ipynb) — Optimización multicanal avanzada, evaluación de problemas de VIF y modelado de variables categóricas.
 * **`code/`**: Scripts independientes de Python listos para producción para un seguimiento limpio del código.
-* **`docs/`**: Informes Ejecutivos y Técnicos diseñados para reuniones de alineación con los stakeholders.
-
+  * [Activity_Perform multiple linear regression.py](./code/Activity_Perform%20multiple%20linear%20regression.py) — Script de producción refactorizado.
+* **`docs/`**: Directorio dedicado a la documentación de alto nivel e informes ejecutivos.
 ---
 
 ## 🚀 PACE Framework Workflow / Flujo de Trabajo PACE
