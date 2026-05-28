@@ -15,11 +15,11 @@ Este repositorio documenta un pipeline evolutivo de análisis de datos que explo
 
 ## Background & Business Case / Contexto y Caso de Negocio
 
-### English
-As part of an analytics team providing strategic insights on marketing and sales, this project focuses on optimizing promotional budgets to maximize corporate revenue. Senior leadership relies on these findings to make high-stakes decisions regarding future capital allocation. While traditional isolated channel analyses (Phase 1) offer clarity, real-world cross-channel interaction requires a multivariate approach (Phase 2). Ensuring statistical rigor by auditing assumptions (VIF, Homoscedasticity, Normality) is paramount to mitigate forecasting risks.
+English
+As part of an analytics team providing strategic insights on marketing and sales, this project focuses on optimizing promotional budgets to maximize corporate revenue. Senior leadership relies on these findings to make high-stakes decisions regarding future capital allocation. While traditional isolated channel analyses (Phase 1) offer clarity, real-world cross-channel interaction requires a multivariate approach (Phase 2). Ensuring statistical rigor by auditing assumptions (Linearity, VIF, Homoscedasticity, and Normality) is paramount to mitigate forecasting risks.
 
-### Español
-Como parte de un equipo de analítica encargado de proveer insights estratégicos de marketing y ventas, este proyecto se enfoca en la optimización de presupuestos promocionales para maximizar los ingresos corporativos. La alta dirección depende de estos hallazgos para la toma de decisiones de alto impacto en la asignación de capital futuro. Mientras que los análisis de canales aislados (Fase 1) ofrecen claridad, la interacción de canales en el mundo real requiere un enfoque multivariado (Fase 2). Garantizar el rigor estadístico mediante la auditoría de supuestos (VIF, Homocedasticidad, Normalidad) es fundamental para mitigar los riesgos de proyección.
+Español
+Como parte de un equipo de analítica encargado de proveer insights estratégicos de marketing y ventas, este proyecto se enfoca en la optimización de presupuestos promocionales para maximizar los ingresos corporativos. La alta dirección depende de estos hallazgos para la toma de decisiones de alto impacto en la asignación de capital futuro, lo que hace que la precisión y el rigor estadístico sean fundamentales. Mientras que los análisis de canales aislados (Fase 1) ofrecen claridad, la interacción de canales en el mundo real requiere un enfoque multivariado (Fase 2). Garantizar el rigor estadístico mediante la auditoría de supuestos (Linealidad, VIF, Homocedasticidad y Normalidad) es fundamental para mitigar los riesgos de proyección.
 
 ---
 
