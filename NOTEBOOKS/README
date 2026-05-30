@@ -5,15 +5,17 @@
 ## Project Overview / Descripción del Proyecto
 
 ### English
-This repository documents an evolutionary data analytics pipeline exploring Ordinary Least Squares (OLS) linear regression to optimize marketing budgets and predict corporate revenue. The project scales systematically through two phases: 
+This repository documents an evolutionary data analytics pipeline exploring inferential statistics and Ordinary Least Squares (OLS) linear regression to optimize marketing budgets and predict corporate revenue. The project scales systematically through three distinct phases:
 
-* **Phase 1** establishes a baseline using simple linear regression (TV spend). 
-* **Phase 2** expands into multiple linear regression, documenting a real-world troubleshooting workflow—navigating a severe multicollinearity bottleneck (Radio vs. Social Media) and implementing a successful tactical redesign using categorical encoding (`C(TV)` + `Radio`).
+* **Phase 1 (Simple Linear Regression):** Establishes a baseline using a single continuous predictor (TV spend) to model sales outcomes.
+* **Phase 2 (Inferential Statistics & Advanced EDA):** Implements a **One-Way ANOVA** and **Tukey's HSD post-hoc test** to mathematically validate if sales significantly vary across TV investment brackets (`Low`, `Medium`, `High`), ensuring statistical confidence before heavy deployment.
+* **Phase 3 (Multiple Linear Regression & Technical Troubleshooting):** Expands into multiple predictors, documenting a real-world analytics workflow—navigating a severe multicollinearity bottleneck (Radio vs. Social Media) and implementing a successful tactical redesign using categorical encoding (`C(TV)` + `Radio`).
 
 ---
 
 ### Español
-Este repositorio documenta un pipeline evolutivo de análisis de datos que explora la regresión lineal por Mínimos Cuadrados Ordinarios (OLS) para optimizar presupuestos de marketing y predecir ingresos corporativos. El proyecto escala sistemáticamente a través de dos fases:
+Este repositorio documenta un pipeline evolutivo de análisis de datos que explora la estadística inferencial y la regresión lineal por Mínimos Cuadrados Ordinarios (OLS) para optimizar presupuestos de marketing y predecir ingresos corporativos. El proyecto escala sistemáticamente a través de tres fases diferenciadas:
 
-* **La Fase 1** establece una línea base mediante regresión lineal simple (inversión en TV). 
-* **La Fase 2** se expande hacia la regresión lineal múltiple, registrando un flujo real de resolución de problemas—navegando un cuello de botella por severa multicolinealidad (Radio vs. Redes Sociales) e implementando un rediseño táctico exitoso mediante codificación categórica (`C(TV)` + `Radio`).
+* **Fase 1 (Regresión Lineal Simple):** Establece una línea base utilizando un único predictor continuo (inversión en TV) para modelar los ingresos.
+* **Fase 2 (Estadística Inferencial y EDA Avanzado):** Implementa un **ANOVA de una vía** y una **prueba post-hoc Tukey's HSD** para validar matemáticamente si las ventas varían significativamente según los rangos de inversión en TV (`Low`, `Medium`, `High`), asegurando confianza estadística antes del despliegue.
+* **Fase 3 (Regresión Lineal Múltiple y Resolución de Problemas):** Se expande hacia múltiples predictores, registrando un flujo real de resolución de problemas de negocio—navegando un cuello de botella por severa multicolinealidad (Radio vs. Redes Sociales) e implementando un rediseño táctico exitoso mediante codificación categórica (`C(TV)` + `Radio`).
